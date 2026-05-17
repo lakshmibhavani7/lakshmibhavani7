@@ -38,19 +38,19 @@ SQL analysis, and Python-based EDA.
 
 ### 📊 Data Analyst Projects
 
-**1. Customer Segmentation & Campaign Analysis**
+**1. Customer Segmentation & Campaign Analysis** —
 Segmented 2,240 customers into 3 behavioral clusters using K-Means. 
 Analyzed 5 marketing campaigns via SQL. Built Power BI dashboard 
 revealing 1M+ total spend and top campaign with 167 acceptances.
 `Python` `SQL` `Power BI` `K-Means` `EDA`
 
-**2. Retail & Sales Performance Analysis**
+**2. Retail & Sales Performance Analysis** —
 Analyzed 820K sales and 260K profit across regions using SQL. Built 
 interactive Power BI dashboard identifying California as top state 
 (31K profit) and seasonal trends across 2015–2018.
 `SQL` `Power BI` `Python` `EDA`
 
-**3. YouTube Channel Performance Dashboard**
+**3. YouTube Channel Performance Dashboard** - —
 Built 3-page Power BI dashboard analyzing 9M+ uploads across 14 
 channel types. Tracked 169M average views and identified Entertainment 
 as highest engagement category.
